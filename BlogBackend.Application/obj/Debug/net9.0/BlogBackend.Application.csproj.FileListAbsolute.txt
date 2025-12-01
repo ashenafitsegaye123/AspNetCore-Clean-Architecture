@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBackend.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBackend.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBackend.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBackend.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\bin\Debug\net9.0\BlogBackend.Application.deps.json
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\bin\Debug\net9.0\BlogBackend.Application.dll
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\bin\Debug\net9.0\BlogBackend.Application.pdb
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\bin\Debug\net9.0\BlogBackend.Domain.dll
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\bin\Debug\net9.0\BlogBackend.Domain.pdb
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBack.91EEA7A4.Up2Date
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBackend.Application.dll
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\refint\BlogBackend.Application.dll
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBackend.Application.pdb
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\ref\BlogBackend.Application.dll

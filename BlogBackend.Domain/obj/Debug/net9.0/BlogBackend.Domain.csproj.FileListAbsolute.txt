@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\bin\Debug\net9.0\BlogBackend.Domain.deps.json
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\bin\Debug\net9.0\BlogBackend.Domain.dll
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\bin\Debug\net9.0\BlogBackend.Domain.pdb
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\obj\Debug\net9.0\BlogBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\obj\Debug\net9.0\BlogBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\obj\Debug\net9.0\BlogBackend.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\obj\Debug\net9.0\BlogBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\obj\Debug\net9.0\BlogBackend.Domain.dll
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\obj\Debug\net9.0\refint\BlogBackend.Domain.dll
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\obj\Debug\net9.0\BlogBackend.Domain.pdb
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Domain\obj\Debug\net9.0\ref\BlogBackend.Domain.dll
