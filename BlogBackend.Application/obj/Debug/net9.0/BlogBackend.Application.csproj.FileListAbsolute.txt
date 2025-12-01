@@ -13,3 +13,4 @@ C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\Blog
 C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\refint\BlogBackend.Application.dll
 C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBackend.Application.pdb
 C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\ref\BlogBackend.Application.dll
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Application\obj\Debug\net9.0\BlogBackend.Application.sourcelink.json

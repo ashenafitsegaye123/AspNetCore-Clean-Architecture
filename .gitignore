@@ -1,0 +1,48 @@
+# Build artifacts
+bin/
+obj/
+!src/**/bin/
+!src/**/obj/
+
+# NuGet
+packages/
+**/.nuget/packages/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Config/Secrets
+appsettings.*.json
+!appsettings.json
+!appsettings.Development.json
+secrets.json
+user.secrets
+
+# EF Core
+**/Migrations/
+!src/BlogBackend.Infrastructure/Migrations/
+
+# Temp
+**/.tmp/
+**/*.tmp
+
+# Git
+.git/
+
+# Project-specific
+src/**/*.user
+src/BlogBackend.Web/Properties/launchSettings.json  # Local ports; share if team uses same

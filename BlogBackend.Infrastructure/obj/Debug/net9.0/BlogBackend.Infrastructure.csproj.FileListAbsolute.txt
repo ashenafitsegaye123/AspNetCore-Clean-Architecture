@@ -17,3 +17,4 @@ C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\Blog
 C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Infrastructure\obj\Debug\net9.0\BlogBackend.Infrastructure.pdb
 C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Infrastructure\obj\Debug\net9.0\BlogBackend.Infrastructure.genruntimeconfig.cache
 C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Infrastructure\obj\Debug\net9.0\ref\BlogBackend.Infrastructure.dll
+C:\Users\DELL\Desktop\Perago-good-archtecture\AspNetCore-Clean-Architecture\BlogBackend.Infrastructure\obj\Debug\net9.0\BlogBackend.Infrastructure.sourcelink.json
